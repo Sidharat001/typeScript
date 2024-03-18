@@ -14,3 +14,4 @@ function sum(a: number, b: number): string {
 
 
 console.log(sum(20, 30));
+
